@@ -3,3 +3,6 @@ tags
 test
 models
 .idea
+datasets
+export
+.DS_Store
