@@ -6,3 +6,5 @@ models
 datasets
 export
 .DS_Store
+tools/input
+tools/output
